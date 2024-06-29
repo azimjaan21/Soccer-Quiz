@@ -26,7 +26,7 @@ class _MyAppState extends State<MyApp> {
       GetPage(name: '/home', page: () => HomeScreen(),),
     ],
       
-      title: 'Soccer Quiz',
+      title: 'Quiz Ball',
       debugShowCheckedModeBanner: false,
      
     );
