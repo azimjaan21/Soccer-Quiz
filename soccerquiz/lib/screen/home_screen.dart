@@ -87,7 +87,7 @@ class _HomeScreenState extends State<HomeScreen> {
                   style: TextStyle(color: Colors.amber, fontSize: 18),
                   children: [
                   TextSpan(text: 'Powered by '),
-                  TextSpan(text: 'AzimjaanTech', style: TextStyle( color: Colors.blue)),
+                  TextSpan(text: 'azimjaan21', style: TextStyle( color: Colors.blue)),
                   ]
                 ),),
               ],
